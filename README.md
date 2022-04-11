@@ -6,4 +6,6 @@ The repository contains only Demo of the project code!
 
 ## Game demo on youtube
 
-[![Start Location]()](https://youtu.be/Em0kIOvjJB4)
+[![Start Location](https://github.com/DrebotArtem/ResourcesForGitHub/blob/main/Evelston/Start%20location.jpg)](https://youtu.be/Em0kIOvjJB4)
+[![Quest System](https://github.com/DrebotArtem/ResourcesForGitHub/blob/main/Evelston/QuestSystem.jpg)](https://youtu.be/2v8AxGTwHS4)
+[![Battle System (old version)](https://github.com/DrebotArtem/ResourcesForGitHub/blob/main/Evelston/BattleSystem(old).jpg)](https://youtu.be/zXut5xyNxe8)

@@ -1,7 +1,8 @@
 # Evelston: Way Of Devi
 
 Evelston: Way Of Devil is a fantasy adventure game with turn-based combat where you will face the role of one of the inhabitants of a village far from civilization.
-The repository contains only Demo of the project code!
+
+**The repository contains only Demo of the project code!**
 
 
 ## Game demo on youtube

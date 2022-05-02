@@ -4,6 +4,7 @@ Evelston: Way Of Devil is a fantasy adventure game with turn-based combat where 
 
 **The repository contains only Demo of the project code!**
 
+You can download demo(Russian language) on [itch.](https://drebot-game-studio.itch.io/evelston-way-of-devil)
 
 ## Game demo on youtube
 
